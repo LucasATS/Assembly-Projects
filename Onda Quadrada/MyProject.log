@@ -1,0 +1,13 @@
+0	1	mikroc8051.exe -MSF -DBG -pAT89C51ED2 -ES -DL -O11111114 -fo11.0592 -N"C:\Users\lucas\Desktop\ \UFMS\MICROCON\Labs\TrabalhoOndaQuadrada\MyProject.mcp51" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for 8051\defs\" -SP"C:\Users\lucas\Desktop\ \UFMS\MICROCON\Labs\TrabalhoOndaQuadrada\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for 8051\Uses\ATMEL\" "MyProject.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_EEPROM.mcl" "__Lib_SPI.mcl" "__Lib_UART.mcl" "__Lib_CType.mcl" "__Lib_CString.mcl" "__Lib_CStdlib.mcl" "__Lib_CMath.mcl" "__Lib_Conversions.mcl" "__Lib_Sprintf.mcl" "__Lib_PrintOut.mcl" "__Lib_Sprinti.mcl" "__Lib_Sprintl.mcl" "__Lib_Time.mcl" "__Lib_Trigonometry.mcl" "__Lib_Button.mcl" "__Lib_Keypad4x4.mcl" "__Lib_Manchester.mcl" "__Lib_OneWire.mcl" "__Lib_PS2.mcl" "__Lib_Sound.mcl" "__Lib_SoftI2C.mcl" "__Lib_SoftSPI.mcl" "__Lib_SoftUART.mcl" "__Lib_PortExpander.mcl" "__Lib_CANSPI.mcl" "__Lib_GlcdFonts.mcl" "__Lib_Glcd.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl" "__Lib_RS485.mcl" "__Lib_T6963C.mcl" "__Lib_SPIGlcd.mcl" "__Lib_SPILcd.mcl" "__Lib_SPILcd8.mcl" "__Lib_SPIT6963C.mcl" "__Lib_EthEnc28j60.mcl"	 
+diagnostics: 0	122	Compilation Started	MyProject.c
+diagnostics: 31	123	Compiled Successfully	MyProject.c
+diagnostics: 0	127	All files Compiled in 94 ms	 
+hint: 0	1144	Used BDATA RAM (bytes): 0 (1%) Free BDATA RAM (bytes): 16 (99%)	Used BDATA RAM (bytes): 0 (1%) Free BDATA RAM (bytes): 16 (99%)
+hint: 0	1144	Used DATA RAM (bytes): 0 (1%) Free DATA RAM (bytes): 104 (99%)	Used DATA RAM (bytes): 0 (1%) Free DATA RAM (bytes): 104 (99%)
+hint: 0	1144	Used IDATA RAM (bytes): 0 (1%) Free IDATA RAM (bytes): 128 (99%)	Used IDATA RAM (bytes): 0 (1%) Free IDATA RAM (bytes): 128 (99%)
+hint: 0	1144	Used XDATA RAM (bytes): 0 (1%) Free XDATA RAM (bytes): 1792 (99%)	Used XDATA RAM (bytes): 0 (1%) Free XDATA RAM (bytes): 1792 (99%)
+hint: 0	1144	Used ROM (bytes): 127 (1%)  Free ROM (bytes): 65409 (99%)	Used ROM (bytes): 127 (1%)  Free ROM (bytes): 65409 (99%)
+diagnostics: 0	125	Project Linked Successfully	MyProject.mcp51
+diagnostics: 0	128	Linked in 63 ms	 
+diagnostics: 0	129	Project 'MyProject.mcp51' completed: 313 ms	 
+diagnostics: 0	103	Finished successfully: 14 jun 2023, 14:17:37	MyProject.mcp51

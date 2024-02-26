@@ -1,0 +1,11 @@
+<WCH v="2">
+  <item n="P0_7_bit" r="0" s="False" e="False" i="336"/>
+  <item n="TF0_bit" r="0" s="False" e="False" i="232"/>
+  <item n="TR0_bit" r="0" s="False" e="False" i="231"/>
+  <item n="R1" r="0" s="False" e="False" i="1"/>
+  <item n="TMOD" r="0" s="False" e="False" i="235"/>
+  <item n="TCON" r="0" s="False" e="False" i="226"/>
+  <item n="TH0" r="0" s="False" e="False" i="246"/>
+  <item n="TL0" r="0" s="False" e="False" i="244"/>
+  <item n="ET0_bit" r="0" s="False" e="False" i="194"/>
+</WCH>
